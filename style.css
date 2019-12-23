@@ -1,0 +1,30 @@
+#master {
+    background-color: #eee;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-weight: bolder;
+}
+
+#picture {
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    overflow: -moz-hidden-unscrollable;
+    padding-bottom: 10px;
+}
+
+#content {
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: left;
+}
+
+.li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
